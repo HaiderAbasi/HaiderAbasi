@@ -42,19 +42,16 @@
 
 ---
 
-
 ###  Github Stats:
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HaiderAbasi&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-<br />
+  <img align="center" alt="HaiderAbasi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HaiderAbasi&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
-</details>
+
 
 [course]: https://www.udemy.com/course/ros2-path-planning-and-maze-solving-with-computer-vision/
 [youtube]: https://www.youtube.com/channel/UCAkjl0fHhKfZno9teMjVT8A/featured
