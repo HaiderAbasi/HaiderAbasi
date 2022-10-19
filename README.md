@@ -3,7 +3,7 @@
 </h1> 
 
 [![Udemy Instructor](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)][Udemy]
-[![Website](https://img.shields.io/badge/THE%20CV%20GUY-Under%20Construction-orange?style=for-the-badge&logo=appveyor)](https://github.com/HaiderAbasi)
+[![Website](https://img.shields.io/badge/Website-CVSense-green?style=for-the-badge&logo=appveyor)](https://cvsense.com)
 [![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidernajeeb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTIel02KfSnOTNU5EP%2FdlxQ%3D%3D)
 [![Dive Into Self-Drive Industry](https://img.shields.io/badge/-PEEK%20Into%20The%20SelfDrive%20FUTURE%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.udemy.com/course/ros2-self-driving-car-with-deep-learning-and-computer-vision/)
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
@@ -25,7 +25,7 @@
 
 [![https://icons8.com/](./img/icons8-linkedin-48.png)](https://www.linkedin.com/in/haidernajeeb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTIel02KfSnOTNU5EP%2FdlxQ%3D%3D)
 &nbsp;&nbsp;
-[![https://icons8.com/](./img/icons8-gmail.svg)](https://mail.google.com/mail/u/0/?fs=1&to=haiderabbasi333@gmail.com&su=SUBJECT&body=BODY&tf=cm)
+[![https://icons8.com/](./img/icons8-gmail.svg)](https://mail.google.com/mail/u/0/?fs=1&to=haider@cvsense.com&su=SUBJECT&body=BODY&tf=cm)
 &nbsp;&nbsp;
 [![https://icons8.com/](./img/icons8-facebook-48.png)](https://www.facebook.com/hader.abac/)
 
