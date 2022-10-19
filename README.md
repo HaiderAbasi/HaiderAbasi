@@ -1,4 +1,4 @@
-[![MasterHead](./img/header_gif.webp)](https://cvsense.com)
+[![MasterHead](./img/CV_fb.png)](https://cvsense.com)
 <h1 align="center">Salam 👋 , I'm Haider - aka <a href="https://www.youtube.com/channel/UCAkjl0fHhKfZno9teMjVT8A/featured">HAD-LUQ </a>
 </h1> 
 
